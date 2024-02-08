@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+HI my name is adriana, i'm 17 years old and i like Resident Evil
+
 <!--
 **Yuerfe/Yuerfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
